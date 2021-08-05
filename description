@@ -1,0 +1,4 @@
+In an inventory, the items are
+stacked based on the purchasing sequence. For the production, only some of the
+items are needed. Get the items and display the position of the items in the
+inventory.
